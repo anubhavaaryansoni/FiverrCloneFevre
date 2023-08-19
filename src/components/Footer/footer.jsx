@@ -52,14 +52,14 @@ const Footer = () => {
           </div>
           <div className="item">
             <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
+            <span>Fevre Business</span>
+            <span>Fevre Pro</span>
+            <span>Fevre Logo Maker</span>
+            <span>Fevre Guides</span>
             <span>Get Inspired</span>
-            <span>Liverr Select</span>
+            <span>Fevre Select</span>
             <span>ClearVoice</span>
-            <span>Liverr Workspace</span>
+            <span>Fevre Workspace</span>
             <span>Learn</span>
             <span>Working Not Working</span>
           </div>

@@ -4,8 +4,8 @@ import Featured from "../../components/featured/featured";
 import Trustedby from "../../components/trustedby/trustedby";
 import Slide from "../../components/slide/slide";
 import Catcard from "../../components/catcard/catcard";
-import { cards } from "../../components/data";
-import { projects } from "../../components/data";
+// import { cards } from "../data";
+import { cards , projects } from "../data";
 import Projectcard from "../../components/projectcard/projectcard";
 const Home = () => {
   return (
@@ -64,7 +64,7 @@ const Home = () => {
         <div className="container">
           <div className="item">
             <h1>
-              fiverr <i>business</i>
+              fevre <i>business</i>
             </h1>
             <h1>
               A business solution designed for <i>teams</i>
@@ -87,7 +87,7 @@ const Home = () => {
               <img src="./images/check.png" alt="" />
               Manage teamwork and boost productivity with one powerful workspace
             </div>
-            <button>Explore Liverr Business</button>
+            <button>Explore Fevre Business</button>
           </div>
           <div className="item">
             <img

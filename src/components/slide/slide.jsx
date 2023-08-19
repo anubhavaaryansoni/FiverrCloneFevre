@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Catcard from "../catcard/catcard";
-import { cards } from "../data";
+import { cards } from "../../pages/data";
 // function SampleNextArrow(props) {
 //   const { className, style, onClick } = props;
 //   return (
