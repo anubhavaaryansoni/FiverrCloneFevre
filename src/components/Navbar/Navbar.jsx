@@ -17,7 +17,7 @@ const Navbar = () => {
   }, []);
   const currentUser = {
     id: 1,
-    username: "Joe mama",
+    username: "Ana",
     isSeller: true,
   };
 
